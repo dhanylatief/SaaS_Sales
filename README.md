@@ -34,8 +34,8 @@ Key Objectives:
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
-├── reports            <- Generated analysis as PowerPoint, PDF, LaTeX, etc.
-|   ├── slide          <- Generated PowerPoint
+├── reports            <- Generated analysis as PDF
+|   ├── slide          <- Generated PDF
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
@@ -52,6 +52,7 @@ In this section, you can present the **actionable insights** derived from the an
 In this section, you can offer **actionable business recommendations** to address the identified problems.
 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- Name: Muhammad Dhany Latief
+- Email: m.dhany.latief@gmail.com
+- Linkedin: https://www.linkedin.com/in/dhany-latief-22a674241/
+- Tableau Public: https://public.tableau.com/app/profile/dhan.l/vizzes
